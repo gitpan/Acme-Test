@@ -4,7 +4,7 @@ use Test::More 'no_plan';
 use strict;
 
 use vars qw[$VERSION];
-$VERSION = 0.01;
+$VERSION = 0.02;
 
 my $href = {
     CODE    => { type   => 'subroutine', 
